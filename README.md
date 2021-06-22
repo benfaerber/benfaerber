@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben Faerber 👋
 
-📒 [Portfolio](benfaerber.github.io)
+📒 [My Portfolio](benfaerber.github.io)
 
 ✍️ I love making things, especially software because I can create anything I want out of nothing. Most people think of programming as a heavily left brained activity but I view it as a skill that requires immense creativity.
 
