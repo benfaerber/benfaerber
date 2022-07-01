@@ -1,4 +1,4 @@
-### Hi there, I'm Ben Faerber 👋
+### Hi there, I'm Ben Faerber 🐪
 
 📒 [My Portfolio](https://benfaerber.github.io)
 
