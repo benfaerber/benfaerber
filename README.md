@@ -1,4 +1,4 @@
-### Hi there, I'm Ben Faerber 🦀🐪
+### Hi there, I'm Ben Faerber 🦀🐪 ![](https://komarev.com/ghpvc/?username=benfaerber)
 
 📒 [My Portfolio](https://benfaerber.github.io)
 
