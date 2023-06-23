@@ -2,7 +2,7 @@
 
 [📒 My Portfolio](https://benfaerber.github.io)
 
-[📒 My Blog](https://benfaerber.github.io/#/blog)
+[😎 My Blog](https://benfaerber.github.io/#/blog)
 
 [🏫 My NPM](https://www.npmjs.com/~benfaerber)
 
