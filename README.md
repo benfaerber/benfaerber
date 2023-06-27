@@ -4,6 +4,8 @@
 
 [😎 My Blog](https://benfaerber.github.io/#/blog)
 
+[🦀 My Crates](https://crates.io/users/benfaerber)
+
 [🏫 My NPM](https://www.npmjs.com/~benfaerber)
 
 ✍️ I love making things, especially software because I can create anything I want out of nothing. Most people think of programming as a heavily left brained activity but I view it as a skill that requires immense creativity.
