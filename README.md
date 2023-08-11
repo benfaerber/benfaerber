@@ -18,6 +18,6 @@ I even contributed to [Rescript React](https://github.com/rescript-lang/rescript
 
 [😎 Dev Blog](https://benfaerber.github.io/#/blog)
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and Kotlin. I am interested in programming language design and lexical analysis!
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and Kotlin. I am interested in programming language design and lexical analysis! I started programming around 2012. My first "real" programming language was C# which I learned through Unity3D in 2014.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
