@@ -1,8 +1,8 @@
 ### Hi there, I'm Ben Faerber 🦀🐪 ![](https://komarev.com/ghpvc/?username=benfaerber)
 
-[📒 My Portfolio](https://benfaerber.github.io)
+[📒 Website](https://benfaerber.github.io)
 
-[😎 My Blog](https://benfaerber.github.io/#/blog)
+[😎 Dev Blog](https://benfaerber.github.io/#/blog)
 
 [🦀 My Rust Crates](https://crates.io/users/benfaerber)
 - [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust
