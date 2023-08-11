@@ -1,8 +1,6 @@
 ### Hi there, I'm Ben Faerber 🦀🐪 ![](https://komarev.com/ghpvc/?username=benfaerber)
 
-[📒 Website](https://benfaerber.github.io)
 
-[😎 Dev Blog](https://benfaerber.github.io/#/blog)
 
 [🦀 My Rust Crates](https://crates.io/users/benfaerber)
 - [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust
@@ -15,7 +13,9 @@
 I used to be quite involved in the [Rescript](https://rescript-lang.org/) Community. A typesafe language based on OCaml's type system that compiles to Javascript.
 I even contributed to [Rescript React](https://github.com/rescript-lang/rescript-react)!
 
-✍️ I love making things, especially software because I can create anything I want out of nothing. Most people think of programming as a heavily left brained activity but I view it as a skill that requires immense creativity.
+[📒 Website](https://benfaerber.github.io)
+
+[😎 Dev Blog](https://benfaerber.github.io/#/blog)
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and Kotlin. I am interested in programming language design and lexical analysis!
 
