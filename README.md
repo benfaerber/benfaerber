@@ -5,6 +5,7 @@
 [😎 My Blog](https://benfaerber.github.io/#/blog)
 
 [🦀 My Crates](https://crates.io/users/benfaerber)
+- [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust
 
 [🏫 My NPM](https://www.npmjs.com/~benfaerber)
 
