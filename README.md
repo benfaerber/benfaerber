@@ -4,13 +4,13 @@
 - [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software.
 - [Longitude](https://crates.io/crates/longitude) - Work with coordinates using the Haversine Forumla. Useful for mapping, triangulation, etc. I use it in my app Sardines.
 
+[🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
+- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml.
+
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 - [Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom) - Use React Router DOM with Rescript!
 - [Rescript Leaflet React](https://www.npmjs.com/package/rescript-leaflet-react) - A Rescript wrapper for Rescript Leaflet React
 - [Rescript React Simple Maps](https://www.npmjs.com/package/rescript-react-simple-maps) - A Rescript wrapper for React Simple Maps
-
-[🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
-- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml.
 
 I used to be quite involved in the [Rescript](https://rescript-lang.org/) Community. A typesafe language based on OCaml's type system that compiles to Javascript.
 I even contributed to [Rescript React](https://github.com/rescript-lang/rescript-react)!
