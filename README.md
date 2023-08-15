@@ -5,7 +5,7 @@
 - [Longitude](https://crates.io/crates/longitude) - Work with coordinates using the Haversine Forumla. Useful for mapping, triangulation, etc. I use it in my app Sardines.
 
 [🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
-- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml.
+- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter.
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 - [Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom) - Use React Router DOM with Rescript!
