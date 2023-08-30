@@ -1,7 +1,6 @@
-### Hi there, I'm Ben Faerber 🦀🐪 ![](https://komarev.com/ghpvc/?username=benfaerber)
+### Hi there, I'm [Ben Faerber 🦀🐪](https://benfaerber.github.io) ![](https://komarev.com/ghpvc/?username=benfaerber)
 
 [📒 Website](https://benfaerber.github.io)
-
 [😎 Dev Blog](https://benfaerber.github.io/#/blog)
 
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
