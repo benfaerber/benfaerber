@@ -8,7 +8,7 @@
 - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter.
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
-- [Rescript React Router DOM ![](https://img.shields.io/npm/v/rescript-react-router-dom.svg)](https://www.npmjs.com/package/rescript-react-router-dom) - Use React Router DOM with Rescript!
+- [![](https://img.shields.io/npm/v/rescript-react-router-dom.svg) - Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom) - Use React Router DOM with Rescript!
 - [Rescript Leaflet React](https://www.npmjs.com/package/rescript-leaflet-react) - A Rescript wrapper for Rescript Leaflet React
 - [Rescript React Simple Maps](https://www.npmjs.com/package/rescript-react-simple-maps) - A Rescript wrapper for React Simple Maps
 
