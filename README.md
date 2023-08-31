@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ben Faerber 🦀🐪](https://benfaerber.github.io) ![](https://komarev.com/ghpvc/?username=benfaerber)
 
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
-- [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. - ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg?icon=rust)
+- [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp;&nbsp; ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg?icon=rust)
 - [Longitude](https://crates.io/crates/longitude) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. - ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg?icon=rust)
 
 [🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
