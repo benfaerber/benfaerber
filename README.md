@@ -1,8 +1,10 @@
 ### Hi there, I'm [Ben Faerber 🦀🐪](https://benfaerber.github.io) ![](https://komarev.com/ghpvc/?username=benfaerber)
 
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
-- [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software.
-- [Longitude](https://crates.io/crates/longitude) - Work with coordinates using the Haversine Forumla. Useful for mapping, triangulation, etc. I use it in my app Sardines.
+|                                                 |                                                                                                                         |                                                                                      |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [USB Scale](https://crates.io/crates/usb_scale) | Connect to USB scales in Rust. I use it to connect scales to my shipping software.                                      | ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg) |
+| [Longitude](https://crates.io/crates/longitude) | Work with coordinates using the Haversine Forumla. Useful for mapping, triangulation, etc. I use it in my app Sardines. | ![https://crates.io/crates/longitude](https://img.shields.io/crates/v/longitude.svg) |
 
 [🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
 - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter.
