@@ -5,15 +5,15 @@
 | [USB Scale](https://crates.io/crates/usb_scale) | Connect to USB scales in Rust. I use it to connect scales to my shipping software.                                      | ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg) |
 | [Longitude](https://crates.io/crates/longitude) | Work with coordinates using the Haversine Forumla. Useful for mapping, triangulation, etc. I use it in my app Sardines. | ![https://crates.io/crates/longitude](https://img.shields.io/crates/v/longitude.svg) |
 
-[🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
-- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter.
+|                                                      | [🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)                               |                                                                |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| [Liquid ML](https://github.com/benfaerber/liquid-ml) | Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter. | https://img.shields.io/badge/liquid__ml-opam-orange?logo=ocaml |
 
-[🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
-|                                                                                        |                                               |                                                                                                                          |
-|----------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom)   | Use React Router DOM with Rescript!           | ![https://www.npmjs.com/package/rescript-react-router-dom](https://img.shields.io/npm/v/rescript-react-router-dom.svg)   |
-| [Rescript Leaflet React](https://www.npmjs.com/package/rescript-leaflet-react)         | A Rescript wrapper for Rescript Leaflet React | ![https://www.npmjs.com/package/rescript-leaflet-react](https://img.shields.io/npm/v/rescript-leaflet-react.svg)         |
-| [Rescript React Simple Maps](https://www.npmjs.com/package/rescript-react-simple-maps) | A Rescript wrapper for React Simple Maps      | ![https://www.npmjs.com/package/rescript-react-simple-maps](https://img.shields.io/npm/v/rescript-react-simple-maps.svg) |
+|                                                                                        | [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber) |                                                                                                                          |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom)   | Use React Router DOM with Rescript!                          | ![https://www.npmjs.com/package/rescript-react-router-dom](https://img.shields.io/npm/v/rescript-react-router-dom.svg)   |
+| [Rescript Leaflet React](https://www.npmjs.com/package/rescript-leaflet-react)         | A Rescript wrapper for Rescript Leaflet React                | ![https://www.npmjs.com/package/rescript-leaflet-react](https://img.shields.io/npm/v/rescript-leaflet-react.svg)         |
+| [Rescript React Simple Maps](https://www.npmjs.com/package/rescript-react-simple-maps) | A Rescript wrapper for React Simple Maps                     | ![https://www.npmjs.com/package/rescript-react-simple-maps](https://img.shields.io/npm/v/rescript-react-simple-maps.svg) |
 
 I used to be quite involved in the [Rescript](https://rescript-lang.org/) Community. A typesafe language based on OCaml's type system that compiles to Javascript.
 I even contributed to [Rescript React](https://github.com/rescript-lang/rescript-react)!
