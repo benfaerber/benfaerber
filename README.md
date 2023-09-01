@@ -4,8 +4,8 @@
 - [USB Scale](https://crates.io/crates/usb_scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp;&nbsp; ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)
 - [Longitude](https://crates.io/crates/longitude) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp;&nbsp; ![https://crates.io/crates/usb_scale](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)
 
-[🐪 OCaml Packages](https://github.com/benfaerber/liquid-ml)
-- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter. &nbsp;&nbsp; ![https://github.com/benfaerber/liquid-ml](https://img.shields.io/badge/liquid__ml-opam-orange?logo=ocaml)
+[🐪 OCaml Packages](https://ocaml.org/packages/search?q=author%3A%22Ben%20Faerber%22)
+- [Liquid ML](https://ocaml.org/p/liquid_ml/latest) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter. &nbsp;&nbsp; ![https://github.com/benfaerber/liquid-ml](https://img.shields.io/badge/liquid__ml-opam-orange?logo=ocaml)
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 - [Rescript React Router DOM](https://www.npmjs.com/package/rescript-react-router-dom) - Use React Router DOM with Rescript! &nbsp;&nbsp; ![https://www.npmjs.com/package/rescript-react-router-dom](https://img.shields.io/npm/v/rescript-react-router-dom.svg?logo=rescript)
