@@ -7,6 +7,7 @@
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
 - [USB Scale](https://github.com/benfaerber/usb-scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/usb_scale)
 - [Longitude](https://github.com/benfaerber/longitude) -  Work with real world coordinates in Rust using the Harversine formula. I use it in my app Sardines. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/longitude)
+- [enum_all_variants](https://github.com/benfaerber/enum_all_variants) -  A proc macro to generate a list of all enum variants so you can easily loop over enums. &nbsp; [![](https://img.shields.io/crates/v/enum_all_variants.svg?logo=rust)](https://crates.io/crates/enum_all_variants)
 
 [🐪 OCaml Packages](https://ocaml.org/packages/search?q=author%3A%22Ben%20Faerber%22)
 - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Features a parser, lexer and interpreter. &nbsp; [![](https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml)](https://ocaml.org/p/liquid_ml/latest)
