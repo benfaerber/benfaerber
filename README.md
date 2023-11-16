@@ -10,7 +10,7 @@
 - [Longitude](https://github.com/benfaerber/longitude) -  Work with real world coordinates in Rust using the Harversine formula. I use it in my app Sardines. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/longitude)
 
 [🐪 OCaml Packages](https://ocaml.org/packages/search?q=author%3A%22Ben%20Faerber%22)
-- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in [Awesome OCaml!](https://github.com/ocaml-community/awesome-ocaml) &nbsp; [![](https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml)](https://ocaml.org/p/liquid_ml/latest) [![](https://img.shields.io/badge/Awesome%20OCaml-blue?logo=ocaml)](https://github.com/ocaml-community/awesome-ocaml)
+- [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in [Awesome OCaml!](https://github.com/ocaml-community/awesome-ocaml) &nbsp; [![](https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml)](https://ocaml.org/p/liquid_ml/latest)
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 - [Rescript React Router DOM](https://github.com/benfaerber/rescript-react-router-dom) - Use React Router DOM with Rescript! &nbsp; [![](https://img.shields.io/npm/v/rescript-react-router-dom.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-router-dom)
