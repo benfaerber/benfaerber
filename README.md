@@ -20,7 +20,7 @@
 I used to be quite involved in the [Rescript](https://rescript-lang.org/) Community. A typesafe language based on OCaml's type system that compiles to Javascript.
 I even contributed to [Rescript React](https://github.com/rescript-lang/rescript-react)!
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and Typescript. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
 
