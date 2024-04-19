@@ -2,8 +2,6 @@
 
 [📒 Website](https://benfaerber.github.io)
 
-[😎 Dev Blog](https://benfaerber.github.io/#/blog)
-
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
 - [Tray Item RS](https://github.com/olback/tray-item-rs) (Contributor) - Added support for dynamically updating Windows Tray Applications natively. &nbsp; [![](https://img.shields.io/crates/v/tray_item.svg?logo=rust)](https://crates.io/crates/tray-item)
 - [USB Scale](https://github.com/benfaerber/usb-scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/usb_scale)
@@ -16,9 +14,6 @@
 - [Rescript React Router DOM](https://github.com/benfaerber/rescript-react-router-dom) - Use React Router DOM with Rescript! &nbsp; [![](https://img.shields.io/npm/v/rescript-react-router-dom.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-router-dom)
 - [Rescript Leaflet React](https://github.com/benfaerber/rescript-leaflet-react) - A Rescript wrapper for Rescript Leaflet React &nbsp; [![](https://img.shields.io/npm/v/rescript-leaflet-react.svg?logo=rescript)](https://www.npmjs.com/package/rescript-leaflet-react)
 - [Rescript React Simple Maps](https://github.com/benfaerber/rescript-react-simple-maps) - A Rescript wrapper for React Simple Maps &nbsp; [![](https://img.shields.io/npm/v/rescript-react-simple-maps.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-simple-maps)
-
-I used to be quite involved in the [Rescript](https://rescript-lang.org/) Community. A typesafe language based on OCaml's type system that compiles to Javascript.
-I even contributed to [Rescript React](https://github.com/rescript-lang/rescript-react)!
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
 
