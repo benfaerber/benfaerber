@@ -11,9 +11,6 @@
 - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in [Awesome OCaml!](https://github.com/ocaml-community/awesome-ocaml) &nbsp; [![](https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml)](https://ocaml.org/p/liquid_ml/latest)
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
-- [Rescript React Router DOM](https://github.com/benfaerber/rescript-react-router-dom) - Use React Router DOM with Rescript! &nbsp; [![](https://img.shields.io/npm/v/rescript-react-router-dom.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-router-dom)
-- [Rescript Leaflet React](https://github.com/benfaerber/rescript-leaflet-react) - A Rescript wrapper for Rescript Leaflet React &nbsp; [![](https://img.shields.io/npm/v/rescript-leaflet-react.svg?logo=rescript)](https://www.npmjs.com/package/rescript-leaflet-react)
-- [Rescript React Simple Maps](https://github.com/benfaerber/rescript-react-simple-maps) - A Rescript wrapper for React Simple Maps &nbsp; [![](https://img.shields.io/npm/v/rescript-react-simple-maps.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-simple-maps)
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
 
