@@ -12,8 +12,6 @@
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 
-[🎨 Firefox Devtools Theme Creator](https://benfaerber.github.io/firefox-devtool-themes/) - Check out my online tool for creating your own Firefox Devtools Theme!
-
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
