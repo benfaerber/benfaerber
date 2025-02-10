@@ -1,4 +1,4 @@
-### Hi there, I'm [Ben Faerber 🦀🐪](https://benfaerber.github.io) ![](https://komarev.com/ghpvc/?username=benfaerber)
+### Hi there, I'm [Ben Faerber 🦀🐪](https://benfaerber.github.io) ![](https://komarev.com/ghpvc/?username=benfaerber) ![](https://img.shields.io/keybase/pgp/benfaerber??style=flat&logoColor=000000&labelColor=black&color=cc8131)
 
 [📒 Website](https://benfaerber.github.io)
 
