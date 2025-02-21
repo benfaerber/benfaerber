@@ -16,3 +16,4 @@
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
 
+🔒 As of Febuary 2025, my commits will always be signed with the following key: [![](https://img.shields.io/keybase/pgp/benfaerber??style=flat&logoColor=000000&labelColor=black&color=cc8131)](https://keybase.io/benfaerber)
