@@ -12,6 +12,6 @@
 
 [🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#.
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. In my spare time I work with Rust, OCaml, and C. I am interested in programming language design and lexical analysis! I started programming around 2014 using C#. As of Febuary 2025, my commits will always [be signed](https://keybase.io/benfaerber).
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
