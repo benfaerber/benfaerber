@@ -10,7 +10,8 @@
 [🐪 OCaml Packages](https://ocaml.org/packages/search?q=author%3A%22Ben%20Faerber%22)
 - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in [Awesome OCaml!](https://github.com/ocaml-community/awesome-ocaml) &nbsp; [![](https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml)](https://ocaml.org/p/liquid_ml/latest)
 
-[🏫 Rescript NPM Packages](https://www.npmjs.com/~benfaerber)
+[🐘 PHP Packages](https://packagist.org/users/faerber/packages/)
+- [PDF to ZPL](https://github.com/benfaerber/pdf-to-zpl) - Convert a PDF into the ZPL format. Allowing for custom images, alphabets like Hebrew, Arabic and Cyrillic (without messing with fonts on the printer) and multipage shipping labels!
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. I'm also a Computer Science Student at the University of Utah. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I started programming around 2014 using C#.
 
