@@ -4,7 +4,7 @@
 
 [🦀 Rust Crates](https://crates.io/users/benfaerber)
 - [Tray Item RS](https://github.com/olback/tray-item-rs) (Contributor) - Added support for dynamically updating Windows Tray Applications natively. &nbsp; [![](https://img.shields.io/crates/v/tray_item.svg?logo=rust)](https://crates.io/crates/tray-item)
-- [Slumber](https://github.com/LucasPickering/slumber) (Contributor) - Added support for parsing and importing a VSCode `rest` collection and a Jetbrains `http`. [![crates.io](https://img.shields.io/crates/v/slumber.svg)](https://crates.io/crates/slumber)
+- [Slumber](https://github.com/LucasPickering/slumber) (Contributor) - Added support for parsing and importing a VSCode `rest` collection and a Jetbrains `http`. [![crates.io](https://img.shields.io/crates/v/slumber.svg?logo=rust)](https://crates.io/crates/slumber)
 - [USB Scale](https://github.com/benfaerber/usb-scale) - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/usb_scale)
 - [Longitude](https://github.com/benfaerber/longitude) -  Work with real world coordinates in Rust using the Harversine formula. I use it in my app Sardines. &nbsp; [![](https://img.shields.io/crates/v/usb_scale.svg?logo=rust)](https://crates.io/crates/longitude)
 
