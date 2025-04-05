@@ -16,4 +16,7 @@
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. I'm also a Computer Science Student at the University of Utah. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I started programming around 2014 using C#.
 
+[🐍 Python Packages](https://github.com/yt-dlp/yt-dlp)
+- [yt-dlp](https://github.com/yt-dlp/) - (Contributor) - Reverse engineered the livestreaming platform [Parti](https://parti.com) and build a stream downloader. This project has over 100k stars!
+
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
