@@ -14,7 +14,7 @@
 - [PDF to ZPL](https://github.com/benfaerber/pdf-to-zpl) - Convert a PDF into the ZPL format. Allowing for custom images, alphabets like Hebrew, Arabic and Cyrillic (without messing with fonts on the printer) and multipage shipping labels!
 
 [🐍 Python Packages](https://github.com/yt-dlp/yt-dlp)
-- [yt-dlp](https://github.com/yt-dlp/) (Contributor) - Reverse engineered the livestreaming platform [Parti](https://parti.com) and built a stream downloader.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Contributor) - Reverse engineered the livestreaming platform [Parti](https://parti.com) and built a stream downloader.
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. I'm also a Computer Science Student at the University of Utah. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I started programming around 2014 using C#.
 
