@@ -11,7 +11,7 @@
 - <a href="https://github.com/benfaerber/liquid-ml">Liquid ML</a> - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in <a href="https://github.com/ocaml-community/awesome-ocaml">Awesome OCaml!</a> &nbsp; <a href="https://ocaml.org/p/liquid_ml/latest"><img src="https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml" /></a>
 
 <a href="https://packagist.org/users/faerber/packages/">🐘 PHP Packages</a>
-- <a href="https://github.com/benfaerber/pdf-to-zpl">PDF to ZPL</a> - Convert a PDF into the ZPL format. Allowing for custom images, alphabets like Hebrew, Arabic and Cyrillic (without messing with fonts on the printer) and multipage shipping labels! <a href="https://packagist.org/packages/faerber/pdf-to-zpl"><img src="https://img.shields.io/packagist/v/faerber/pdf-to-zpl" /></a>
+- <a href="https://github.com/benfaerber/pdf-to-zpl">PDF to ZPL</a> - Convert a PDF into the ZPL format. Allowing for custom images, alphabets like Hebrew, Arabic and Cyrillic (without messing with fonts on the printer) and multipage shipping labels! <a href="https://packagist.org/packages/faerber/pdf-to-zpl"><img src="https://img.shields.io/packagist/v/faerber/pdf-to-zpl?logo=php" /></a>
 - <a href="https://github.com/php/doc-en">PHP Docs</a> - Updated the <a href="https://www.php.net/manual/en/language.exceptions.extending.php">Extending Exceptions Page</a> to PHP 8.4.
 
 <a href="https://github.com/yt-dlp/yt-dlp">🐍 Python Packages</a>
