@@ -12,7 +12,7 @@
 
 [🐘 PHP Packages](https://packagist.org/users/faerber/packages/)
 - [PDF to ZPL](https://github.com/benfaerber/pdf-to-zpl) - Convert a PDF into the ZPL format. Allowing for custom images, alphabets like Hebrew, Arabic and Cyrillic (without messing with fonts on the printer) and multipage shipping labels!
-- [PHP Docs](https://github.com/php/doc-en) - Helped update the [Extending Exceptions Page](https://www.php.net/manual/en/language.exceptions.extending.php) to PHP 8.4. 
+- [PHP Docs](https://github.com/php/doc-en) - Updated the [Extending Exceptions Page](https://www.php.net/manual/en/language.exceptions.extending.php) to PHP 8.4. 
 
 [🐍 Python Packages](https://github.com/yt-dlp/yt-dlp)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Contributor) - Reverse engineered the livestreaming platform [Parti](https://parti.com) and built a stream downloader.
