@@ -1,4 +1,4 @@
-<h3>Hi there, I'm <a href="https://benfaerber.github.io">Ben Faerber 🦀🐪🇩🇪</a> <img src="https://komarev.com/ghpvc/?username=benfaerber" /> <a href="https://keybase.io/benfaerber"><img src="https://img.shields.io/keybase/pgp/benfaerber??style=flat&logoColor=000000&labelColor=black&color=cc8131" /></a></h3>
+<h3>Hi there, I'm <a href="https://benfaerber.github.io">Ben Faerber 🦀🐪🇺🇸🇩🇪</a> <img src="https://komarev.com/ghpvc/?username=benfaerber" /> <a href="https://keybase.io/benfaerber"><img src="https://img.shields.io/keybase/pgp/benfaerber??style=flat&logoColor=000000&labelColor=black&color=cc8131" /></a></h3>
 
 <a href="https://benfaerber.github.io">📒 Website</a>
 
