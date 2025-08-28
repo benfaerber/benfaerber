@@ -17,6 +17,6 @@
 <a href="https://github.com/yt-dlp/yt-dlp">🐍 Python Packages</a>
 - <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a> (Contributor) - Reverse engineered the livestreaming platform <a href="https://parti.com">Parti</a> and built a stream downloader.
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. I'm also a German Major at the University of Utah. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I started programming around 2014 using C#.
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software. I'm also a German Major at the University of Utah. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I was just in Denver for [Laracon](https://laracon.us/)!
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
