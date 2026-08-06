@@ -17,7 +17,7 @@
 - <a href="https://github.com/LucasPickering/slumber">Slumber</a> (Contributor) - Added support for parsing and importing a VSCode <code>rest</code> collection and a Jetbrains <code>http</code>. <a href="https://crates.io/crates/slumber"><img src="https://img.shields.io/crates/v/slumber.svg?logo=rust" /></a>
 - <a href="https://github.com/benfaerber/usb-scale">USB Scale</a> - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; <a href="https://crates.io/crates/usb_scale"><img src="https://img.shields.io/crates/v/usb_scale.svg?logo=rust" /></a>
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (PHP, Rust, TypeScript, Python). I'm also a German Literature Major at the University of Utah. I do it just because I am passionate about it. I always follow my passion. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (PHP, Rust, TypeScript, Python). In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
 
