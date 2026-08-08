@@ -20,5 +20,3 @@
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (PHP, Rust, TypeScript, Python). In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benfaerber&show_icons=true)](https://github.com/benfaerber)
