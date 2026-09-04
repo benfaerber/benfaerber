@@ -2,6 +2,9 @@
 
 <a href="https://benfaerber.github.io">📒 Website</a>
 
+<a href="https://stripyhorse.io">🐹 Go</a>
+- <a href="https://stripyhorse.io">Stripy Horse</a> - A developer platform for Zebra label printing, built in Go. Converts PDFs, images and HTML to ZPL, renders pixel-accurate previews, grades barcodes for scannability, and runs virtual Zebra printers on TCP 9100 so you can test without a printer in the room. REST API with official SDKs for PHP, Python, C#, Java and Go.
+
 <a href="https://ocaml.org/packages/search?q=author%3A%22Ben%20Faerber%22">🐪 OCaml Packages</a>
 - <a href="https://github.com/benfaerber/liquid-ml">Liquid ML</a> - Shopify's Liquid templating language for OCaml. Build server rendered HTML, documentation generators and more with OCaml. Featured in <a href="https://github.com/ocaml-community/awesome-ocaml">Awesome OCaml!</a> &nbsp; <a href="https://ocaml.org/p/liquid_ml/latest"><img src="https://img.shields.io/badge/opam-v0.1.2-orange?logo=ocaml" /></a>
 
@@ -17,6 +20,9 @@
 - <a href="https://github.com/LucasPickering/slumber">Slumber</a> (Contributor) - Added support for parsing and importing a VSCode <code>rest</code> collection and a Jetbrains <code>http</code>. <a href="https://crates.io/crates/slumber"><img src="https://img.shields.io/crates/v/slumber.svg?logo=rust" /></a>
 - <a href="https://github.com/benfaerber/usb-scale">USB Scale</a> - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; <a href="https://crates.io/crates/usb_scale"><img src="https://img.shields.io/crates/v/usb_scale.svg?logo=rust" /></a>
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (PHP, Rust, TypeScript, Go, Python). In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
+<a href="https://cawtalker.org">🐦‍⬛ CawTalker</a>
+- <a href="https://cawtalker.org">CawTalker</a> - An AI for understanding American crow vocalizations: a call classifier, a field app, and CrowGPT, a 21M parameter GPT trained on 375GB of crow calls.
+
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (Go, Rust, PHP, TypeScript, Python). I also run <a href="https://stripyhorse.io">Stripy Horse</a>, a Go developer platform for Zebra label printing. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
