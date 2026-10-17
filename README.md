@@ -23,6 +23,6 @@
 <a href="https://cawtalker.org">🐦‍⬛ CawTalker</a>
 - <a href="https://cawtalker.org">CawTalker</a> - An AI for understanding American crow vocalizations: a call classifier, a field app, and CrowGPT, a 21M parameter GPT trained on 375GB of crow calls.
 
-💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (Go, Rust, PHP, TypeScript, Python). I also run <a href="https://stripyhorse.io">Stripy Horse</a>, a Go developer platform for Zebra label printing. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities.
-
+💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (Go, Rust, PHP, TypeScript, Python). I also run <a href="https://stripyhorse.io">Stripy Horse</a>, a Go developer platform for Zebra label printing. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I also speak German. I spent 2 years studying German literature and philosophy at the University of Utah and I've been to Germany 5 times. Leipzig is my favorite city, its like Berlin in the 80s. Still cool, still cheap, still undiscovered.
+ 
 😁 If you are using any of my projects and are having bugs or need a new feature, please reach out and I will do my best to help you!
