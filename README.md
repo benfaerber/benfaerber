@@ -20,8 +20,8 @@
 - <a href="https://github.com/LucasPickering/slumber">Slumber</a> (Contributor) - Added support for parsing and importing a VSCode <code>rest</code> collection and a Jetbrains <code>http</code>. <a href="https://crates.io/crates/slumber"><img src="https://img.shields.io/crates/v/slumber.svg?logo=rust" /></a>
 - <a href="https://github.com/benfaerber/usb-scale">USB Scale</a> - Connect to USB scales in Rust. I use it to connect scales to my shipping software. &nbsp; <a href="https://crates.io/crates/usb_scale"><img src="https://img.shields.io/crates/v/usb_scale.svg?logo=rust" /></a>
 
-<a href="https://crowgpt.org">🐦‍⬛ CawTalker</a>
-- <a href="https://github.com/benfaerber/crowgpt">CawTalker</a> - An AI for understanding American crow vocalizations: a call classifier, a field app, and CrowGPT, a 21M parameter GPT trained on 375GB of crow calls.
+<a href="https://crowgpt.org">🐦‍⬛ CrowGPT</a>
+- <a href="https://github.com/benfaerber/crowgpt">CrowGPT</a> - An AI for understanding American crow vocalizations: a call classifier, a field app, and CrowGPT, a 21M parameter GPT trained on 375GB of crow calls.
 
 💻 I'm from Salt Lake City, Utah and am currently working at True Leaf Market creating shipping software (Go, Rust, PHP, TypeScript, Python). I also run <a href="https://stripyhorse.io">Stripy Horse</a>, a Go developer platform for Zebra label printing. In my spare time I work with Rust, OCaml, and C and hang out in Open Source Communities. I also speak German. I spent 2 years studying German literature and philosophy at the University of Utah and I've been to Germany 5 times. Leipzig is my favorite city, its like Berlin in the 80s. Still cool, still cheap, still undiscovered.
  
